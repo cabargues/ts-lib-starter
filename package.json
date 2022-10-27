@@ -1,6 +1,6 @@
 {
   "name": "@cabargues/ts-lib-starter",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "TypeScript library starter project",
   "source": "src/index.ts",
   "module": "dist/module.js",
